@@ -20,3 +20,8 @@ h1{
   font-family: 'Silkscreen', cursive;
   text-align: center;
 }
+
+footer{
+  position: absolute;
+  bottom: 0;
+}
