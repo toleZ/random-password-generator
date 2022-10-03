@@ -1,0 +1,18 @@
+*{
+  font-family: 'Noto Sans Mono', monospace;
+  color: rgb(229, 225, 230);
+}
+
+body{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #191919;
+}
+
+h1{
+  font-family: 'Silkscreen', cursive;
+  text-align: center;
+}
