@@ -62,7 +62,7 @@ const RandomPasswordGenerator = () => {
 
       <div className="passwordLengthInfoContainer">
         <label className="passwordLengthInfo">
-          Password length:{" "}
+          Password length:
           <span style={{ color: "#99C8FF" }}>{passwordLegnth}</span>
         </label>
         <input
